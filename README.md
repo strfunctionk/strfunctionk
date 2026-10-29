@@ -1,7 +1,14 @@
-### Hi, I'm strfunctionk
-
-Node.js 백엔드 개발을 주로 하고, 웹과 Spring Boot도 다룹니다. Python 서버도 개발할 수 있습니다.
+Node.js와 웹을 중심으로 한 풀스택 개발자입니다. Spring Boot와 Python 서버도 다루고, 예전에는 게임도 개발했습니다.
 명지대학교 컴퓨터공학과에 재학 중이며, UMC 11기 중앙 PE 파트장으로 활동하고 있습니다.
+
+---
+
+### Tech Stack
+
+- Backend: Node.js (NestJS), Spring Boot, Python (FastAPI)
+- Frontend: React, Next.js, TypeScript
+- Database: PostgreSQL, Valkey
+- Infra: Docker, Nginx, GitHub Actions, AWS, OCI
 
 ---
 
@@ -11,7 +18,6 @@ Node.js 백엔드 개발을 주로 하고, 웹과 Spring Boot도 다룹니다. P
 
 - [DeVine_BackEnd](https://github.com/DeVine-2025/DeVine_BackEnd)
 - [DeVine_AI](https://github.com/DeVine-2025/DeVine_AI)
-- [DeVine_FrontEnd](https://github.com/DeVine-2025/DeVine_FrontEnd)
 
 **Memo** 초경량 로컬 퍼스트 크로스플랫폼 메모 앱. [서비스](https://memo.devnoco.com/), [소개 보기](https://github.com/devnoco)
 
