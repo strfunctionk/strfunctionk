@@ -12,17 +12,6 @@ Node.js와 웹을 중심으로 한 풀스택 개발자입니다. Spring Boot와 
 
 ---
 
-### Projects
-
-**DeVine** 개발자와 PM을 연결하는 IT 협업 커뮤니티 플랫폼. 제5회 창의적 SW프로그램 경진대회 장려상
-
-- [DeVine_BackEnd](https://github.com/DeVine-2025/DeVine_BackEnd)
-- [DeVine_AI](https://github.com/DeVine-2025/DeVine_AI)
-
-**Memo** 초경량 로컬 퍼스트 크로스플랫폼 메모 앱. [서비스](https://memo.devnoco.com/), [소개 보기](https://github.com/devnoco)
-
----
-
 <details>
 <summary>수상 내역</summary>
 
@@ -59,7 +48,5 @@ Node.js와 웹을 중심으로 한 풀스택 개발자입니다. Spring Boot와 
 
 ### GitHub Stats
 
-<p>
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages" />
-</p>
+![strfunctionk's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=strfunctionk&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=strfunctionk&layout=compact&theme=dracula)
