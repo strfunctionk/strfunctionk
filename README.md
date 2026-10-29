@@ -1,4 +1,7 @@
-Node.js와 웹을 중심으로 한 풀스택 개발자입니다. Spring Boot와 Python 서버도 다루고, 예전에는 게임도 개발했습니다.
+Node.js와 웹을 중심으로 한 풀스택 개발자입니다.
+
+Spring Boot와 Python 서버도 다루고, 예전에는 게임도 개발했습니다.
+
 명지대학교 컴퓨터공학과에 재학 중이며, UMC 11기 중앙 PE 파트장으로 활동하고 있습니다.
 
 ---
@@ -28,7 +31,7 @@ Node.js와 웹을 중심으로 한 풀스택 개발자입니다. Spring Boot와 
 </details>
 
 <details>
-<summary>학생회와 동아리 활동</summary>
+<summary>활동 내역</summary>
 
 <br>
 
