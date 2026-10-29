@@ -14,6 +14,7 @@ Spring Boot와 Python 서버도 다루고, 예전에는 게임도 개발했습�
 - Mobile: Android (Java, XML), React Native (Expo), PWA
 - Database: PostgreSQL, MySQL, MongoDB, Valkey, Cloudflare D1
 - Infra: Docker, Nginx, GitHub Actions, AWS, OCI, Vercel, Cloudflare (Pages, R2)
+- Game: Unity (C#)
 
 ---
 
