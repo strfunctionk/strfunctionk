@@ -17,13 +17,13 @@ Node.js와 웹을 중심으로 한 풀스택 개발자입니다. Spring Boot와 
 
 <br>
 
-- 제5회 창의적 SW프로그램 경진대회, 장려상 (DeVine) (2026.10)
-- DEPth 4th 데모데이, 우승 (2026.02)
-- 제12회 전국 ICT융합 공모전, 우수상 (2025.11)
-- 제23회 임베디드SW 경진대회 일반 부문(자유공모부문), 은상 (2025.11)
-- 제4회 창의적 SW프로그램 경진대회 AI응용부문, 대상 (2025.09)
-- UMC 8th 데모데이, 장려상 (2025.08)
-- UMC 7th 데모데이 우수상, Node.js Best 파트원상 (2025.02)
+- 제5회 창의적 SW프로그램 경진대회 SW프로그램 개발부문, 우수상 (DeVine) (2026.10)
+- DEPth 4th 데모데이, 우승 (Deokive) (2026.02)
+- 제12회 전국 ICT융합 공모전, 우수상 (DM) (2025.11)
+- 제23회 임베디드SW 경진대회 일반 부문(자유공모부문), 은상 (RATS) (2025.11)
+- 제4회 창의적 SW프로그램 경진대회 AI응용부문, 대상 (DM) (2025.09)
+- UMC 8th 데모데이, 장려상 (HaRu) (2025.08)
+- UMC 7th 데모데이 우수상 (Archive), Node.js Best 파트원상 (2025.02)
 
 </details>
 
@@ -48,5 +48,5 @@ Node.js와 웹을 중심으로 한 풀스택 개발자입니다. Spring Boot와 
 
 ### GitHub Stats
 
-![strfunctionk's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=strfunctionk&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=strfunctionk&layout=compact&theme=dracula)
+![strfunctionk's GitHub stats](https://readme-stats-sand-seven.vercel.app/api?username=strfunctionk&show_icons=true&theme=dracula)
+![Top Langs](https://readme-stats-sand-seven.vercel.app/api/top-langs/?username=strfunctionk&layout=compact&theme=dracula)
