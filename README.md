@@ -8,10 +8,12 @@ Spring Boot와 Python 서버도 다루고, 예전에는 게임도 개발했습�
 
 ### Tech Stack
 
-- Backend: Node.js (NestJS), Spring Boot, Python (FastAPI)
-- Frontend: React, Next.js, TypeScript
-- Database: PostgreSQL, Valkey
-- Infra: Docker, Nginx, GitHub Actions, AWS, OCI
+- Backend: Node.js (NestJS, Express), Spring (Spring Boot, Spring Security), Python (FastAPI)
+- ORM: Prisma, TypeORM, JPA/Hibernate, QueryDSL
+- Frontend: React, Next.js, TypeScript, Vite
+- Mobile: Android (Java, XML), React Native (Expo), PWA
+- Database: PostgreSQL, MySQL, MongoDB, Valkey, Cloudflare D1
+- Infra: Docker, Nginx, GitHub Actions, AWS, OCI, Vercel, Cloudflare (Pages, R2)
 
 ---
 
